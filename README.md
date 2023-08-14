@@ -15,7 +15,7 @@ Neste repositório, você encontrará três listas de exercícios Python: "Estru
 
 ## Como Usar
 
-## Clone este repositório para o seu computador:
+### Clone este repositório para o seu computador:
 
 
 git clone https://github.com/Pedroandradeproj/python.wiki.pedro.git
